@@ -66,3 +66,7 @@ Displays:
 * Dynamic obstacles (moving vehicles)
 * Multi-delivery optimization
 * Real-world map integration
+
+### 👤 Developer
+
+ * **SAYAN BHOWMIK**
