@@ -67,10 +67,15 @@ Features:
 ## 🎮 Features
 
 ✅ Interactive GUI using Tkinter
+
 ✅ User-defined Start and Goal (mouse click)
+
 ✅ Dynamic obstacle placement
+
 ✅ Real-time path animation
+
 ✅ Algorithm comparison
+
 ✅ Explanation panel displaying:
 
 * Total cost
@@ -118,7 +123,7 @@ The system provides a grid-based visual interface:
   * Runs Uniform Cost Search
   * Finds lowest-cost path considering terrain
 
-* **A* Button**
+* **A*  Button**
 
   * Runs A* Search
   * Uses heuristic + cost for fastest optimal path
@@ -243,6 +248,7 @@ The project consists of:
 **Sayan Bhowmik (25BAI11042)**
 
 CSE (AI & ML)
+
 VIT Bhopal
 
 ---
