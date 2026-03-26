@@ -190,8 +190,6 @@ python main.py
 python3 main.py
 ```
 
-```
-
 ---
 
 ## 📊 Output & Analysis
@@ -243,6 +241,7 @@ The project consists of:
 ## 🧑‍💻 Author
 
 **Sayan Bhowmik (25BAI11042)**
+
 CSE (AI & ML)
 VIT Bhopal
 
